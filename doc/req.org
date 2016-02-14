@@ -1,0 +1,98 @@
+#+STARTUP: indent
+
+* FEATURE
+** GTD
+*** collection
+**** inbox
+*** processing (process inbox)
+**** actionable
+***** action (2 min)
+***** delay
+***** projects
+***** delegate to other people
+**** unactionable
+***** trash
+***** ref
+***** feature maybe
+*** organize
+**** task list()
+**** delay
+***** calendar
+***** todo list
+**** delegate
+***** waitting
+**** ohter condition (env)
+*** review
+**** frequently
+***** inbox
+**** daily
+***** calendar
+***** todo list
+***** waitting
+**** weekly
+***** ref
+***** feature maybe
+***** projects
+**** sometime
+***** overview
+*** goal
+
+
+* UI
+** slider bar
+*** inbox
+*** task list
+**** calendar
+**** next action list(todo list)
+**** waitting
+**** projects
+*** ref
+*** feature maybe
+*** goal
+*** review
+*** settings
+
+** inbox
+*** add
+*** delete
+*** process
+
+** tasklist
+*** common
+**** add
+**** remove
+**** done
+**** tag
+*** next action list
+**** env (on call home office)
+*** waitting
+**** waitting who?
+**** contact to
+***** mail
+***** call
+***** other
+*** projects
+**** plan (divide into tasks)
+
+** ref
+*** add
+*** remove
+*** search
+*** category
+*** tag
+*** tree struct
+*** reprocess
+
+** feature maybe
+*** re-process
+
+** goal
+*** plan
+
+** review
+*** notice
+*** action
+
+** settings
+
+
